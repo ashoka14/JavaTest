@@ -165,7 +165,7 @@ public class MerchantTrading {
 		NONRepeatAndNonSubNumbers.add("V");
 		
 		//metal List
-		metalsList.add("sold");
+		metalsList.add("gold");
 		metalsList.add("silver");
 		metalsList.add("iron");
 	}
